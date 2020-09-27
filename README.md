@@ -5,6 +5,9 @@ Responsive-design-project, Sep/27/2020
 By Ibram Elias
 
 Description.
+To build a web site to showcase my talent and experience.
+
+
 
 Setup/Installation Requirements
 
@@ -15,10 +18,6 @@ then, perform git fetch
 then, perform git checkout master
 finally, you will be able to view the index.html page.
 
-Known Bugs
-No known bugs
-
-Support and contact details
 
 If you run into any issues whether it is a bug or what have you, please contact me at ibramdarwish@gmail.com
 
