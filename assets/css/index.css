@@ -1,18 +1,33 @@
 body {
     margin-bottom: 50px;
+    background-color: rgb(150, 147, 147);
 }
 header{
     margin-bottom: 25px;
 }
 
+h2{
+    font-family: 'Rubik', sans-serif;
+    margin-bottom: -5px;
+}
+
 .aboutme{
-    letter-spacing: 1px;
+    letter-spacing: .5px;
     line-height: 10x;
     font-weight: 400;
-    text-align: left;
-    line-height: 30px;
+    text-align: center;
     color:black;
+    background-color: rgb(202, 239, 209);
+    border-radius: 20px;
 }
+.whatIwant{
+    text-align:center;
+    margin-top: 10px;
+    letter-spacing: .5px;
+    background-color:  #fde0d9;
+    border-radius: 20px;
+}
+
 .background-image{
     background-image: url(https://mgcreativedesign.files.wordpress.com/2014/11/website-design-background.png);
    background-repeat: no-repeat;
