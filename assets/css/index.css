@@ -1,6 +1,6 @@
 body {
     margin-bottom: 50px;
-    background-color: rgb(150, 147, 147);
+    background-color: rgb(194, 193, 193);
 }
 header{
     margin-bottom: 25px;
@@ -15,7 +15,7 @@ h2{
 }
 
 p{
-    color: #fff;
+    color: #000;
     font-weight: bold;
 }
 .aboutme{
