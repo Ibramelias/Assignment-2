@@ -9,23 +9,31 @@ header{
 h2{
     font-family: 'Rubik', sans-serif;
     margin-bottom: -5px;
+    font-size: 25px;
+    text-align: left;
+    margin-left: 5px
 }
 
+p{
+    color: #fff;
+    font-weight: bold;
+}
 .aboutme{
     letter-spacing: .5px;
     line-height: 10x;
-    font-weight: 400;
     text-align: center;
     color:black;
     background-color: rgb(202, 239, 209);
-    border-radius: 20px;
+    border-radius: 10px;
+    font-size: 15px;
+
 }
 .whatIwant{
     text-align:center;
     margin-top: 10px;
     letter-spacing: .5px;
     background-color:  #fde0d9;
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 .background-image{
