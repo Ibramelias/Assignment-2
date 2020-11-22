@@ -1,39 +1,84 @@
 body {
     margin-bottom: 50px;
-    background-color: rgb(194, 193, 193);
+    background-color: #fff
 }
 header{
     margin-bottom: 25px;
 }
+h1{
+    text-align: left;
+    font-size: 20px;
+    margin-left: 15%;
+}
 
 h2{
-    font-family: 'Rubik', sans-serif;
-    margin-bottom: -5px;
+    /* font-family: 'Rubik', sans-serif;
     font-size: 25px;
-    text-align: left;
-    margin-left: 5px
+    text-align: center;
+    margin-left: 5px; */
 }
 
-p{
-    color: #000;
-    font-weight: bold;
+.am{
+    font-family: 'Lobster', cursive;
 }
-.aboutme{
-    letter-spacing: .5px;
-    line-height: 10x;
+#skills{
+    align-items: center;
     text-align: center;
-    color:black;
-    background-color: rgb(202, 239, 209);
+    
+}
+li{
+    list-style: none;
+}
+#front{
+    background-color: #FDFD96;
+    margin-left:40px;
+    margin-right: 40px;
+    height: 80%;
+    border-radius: 10px;
+    
+    
+}
+#back{
+    background-color: #a2caeb;
+    margin-left:40px;
+    margin-right: 40px;
+    height: 80%;
+    border-radius: 10px;
+   
+}
+
+.myphoto{
+    height: 95%;
+}
+
+.border{
+    border: 3px solid #000;
+    margin-top: 40px;
+    margin-bottom: 3%;
+}
+
+.aboutme{
+    letter-spacing: 1px;
+    line-height: 200%;
+    text-align: center;
+    color:#000;
+    background-color: rgb(218, 240, 222);
     border-radius: 10px;
     font-size: 15px;
+    height: 95%;
+    
 
 }
+
 .whatIwant{
+    letter-spacing: 1px;
     text-align:center;
-    margin-top: 10px;
     letter-spacing: .5px;
-    background-color:  #fde0d9;
+    background-color:  #f5dcd6;
     border-radius: 10px;
+    height: 95%;
+    color: #000;
+    line-height: 200%;
 }
 
 .background-image{
@@ -114,11 +159,11 @@ p{
     color: rgb(30, 190, 253);
 
 }
-.container{
+/* .container{
     margin-top: 30px;
     line-height: 25px;
-}
-.myphoto {
+} */
+/* .myphoto {
     width: 100%;
 }
 @media screen and (max-width: 768px) {
@@ -127,8 +172,8 @@ p{
     }
     p {
         /* background-color: rgb(159, 158, 158); */
-        color: #fff;
-    }
+        /* color: #fff; */
+    /* }
     h1{
         color: rgb(30, 190, 253);
     }
@@ -136,4 +181,4 @@ p{
         color: #fff;
     }
   
-  }
+  } */ 
