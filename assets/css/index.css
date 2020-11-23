@@ -12,6 +12,7 @@ h1{
 }
 
 
+/* about me page */
 .am{
     font-family: 'Lobster', cursive;
 
@@ -27,25 +28,36 @@ li{
 }
 #front{
     background-color: #FDFD96;
-    margin-left:40px;
-    margin-right: 40px;
+    margin:40px;
     height: 80%;
     border-radius: 10px;
-    
-    
+    padding-top: 20px;
 }
+
+.fronttitle{
+    border-bottom:  1px solid black;
+}
+
+.backtitle{
+    border-bottom:  1px solid black;
+}
+
 #back{
     background-color: #a2caeb;
-    margin-left:40px;
-    margin-right: 40px;
+    margin: 20px;
     height: 80%;
     border-radius: 10px;
+    padding-top: 20px;
    
 }
 
 .myphoto{
     height: 95%;
+    box-shadow: 0px 5px 5px grey;
+ 
+
 }
+
 
 
 .aboutme{
@@ -58,7 +70,8 @@ li{
     font-size: 15px;
     height: 95%;
     padding: 25px;
-    
+    word-spacing: 3px;
+
 
 }
 
@@ -72,8 +85,28 @@ li{
     color: #000;
     line-height: 200%;
     padding: 25px;
+    word-spacing: 3px;
+   
 }
 
+
+/* portoflio page */
+#day  {
+    margin: 40px;
+    box-shadow: 0px 5px 5px grey;
+}
+
+.projects {
+    font-size: 50px;
+    margin: 30px;
+    border-bottom: 1px solid #000;
+    padding-bottom: 15px;
+}
+
+
+
+
+/* Contact page */
 .background-image{
     background-image: url(https://mgcreativedesign.files.wordpress.com/2014/11/website-design-background.png);
    background-repeat: no-repeat;
@@ -177,14 +210,3 @@ li{
   } */ 
 
 
-#day  {
-    margin: 40px;
-}
-
-
-.projects {
-    font-size: 50px;
-    margin: 30px;
-    border-bottom: 1px solid #000;
-    padding-bottom: 15px;
-}
