@@ -186,13 +186,16 @@ li{
 
 }
 .logo {
-  
+   
     font-size: 25px;
     letter-spacing: 15px;
-    cursor: pointer;
+    
 
 }
 
+.link{
+    color: #fff;
+}
 
 
 /* .container{
