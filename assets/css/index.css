@@ -186,8 +186,16 @@ li{
 
 }
 .logo {
-    width: auto;
-    float: left;
+    color: #fff;
+    font-size: 25px;
+    letter-spacing: 15px;
+    cursor: pointer;
+
+}
+
+.logo:hover{
+    color: rgb(30, 190, 253);
+
 }
 
 /* .container{
