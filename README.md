@@ -14,7 +14,7 @@ Here you will find a brief description of my professional life and a few web dev
 
 ## Contact Me.
 
- [Shoot me an email](mailto:ibramdarwish@gmail.com)
+ [Shoot me an email!](mailto:ibramdarwish@gmail.com)
   
-[Visit my GitHub](https://github.com/ibramelias)
+ [Visit my Linkedin!](https://linkedin.com/in/ibram-elias-b0018148)
 
