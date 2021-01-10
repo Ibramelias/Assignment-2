@@ -1,4 +1,4 @@
-## Portofolio.
+## Portofolio
 Welcome to my portofolio!
 
 Here you will find a brief description of my professional life and a few web developmentprojects I have completed.
